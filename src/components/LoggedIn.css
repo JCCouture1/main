@@ -108,6 +108,9 @@
     color: black;
     font-weight: bold;
 }
+a:link{
+    text-decoration: none;
+}
 
 .second-button{
     margin-top: 20px;
@@ -140,6 +143,28 @@
         height: 50px;
         text-align: left;
         padding-left: 30px;
+        padding-top: 15px;
+    }
+    .green{
+        margin-left: 240px;
+        justify-content: right;
+        margin-top: -25px;
+    }
+    .h5{
+        margin-top: -30px;
+        margin-left: 70px;
+    }
+    .active-button{
+        margin-top: -33px;
+        margin-left: 120px;
+    }
+    .first-button{
+        margin-top: 50px;
+        
+    }
+    .second-button{
+        margin-top: -2px;
+        
     }
     
 }
